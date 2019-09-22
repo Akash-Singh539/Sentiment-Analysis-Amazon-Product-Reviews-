@@ -1,4 +1,4 @@
-# Sentiment-Analysis-Amazon-Product-Reviews-
+# Sentiment-Analysis-Amazon-Product-Reviews
 Performed sentiment analysis on Amazon Review Dataset available at http://jmcauley.ucsd.edu/data/amazon/
 
 In this project we have consider only the reviews from cloths, shoes and beauty products reviews from the amazon.
