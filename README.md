@@ -9,4 +9,5 @@ Based on these input factors, sentiment analysis is performed on predicting the 
 # Converted the JSON file to CSV format using: -
 
 dataframe = pd.read_json('reviews.json')
+
 dataframe.to_csv('reviews.csv', sep=',', index=False)
